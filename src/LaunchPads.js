@@ -93,7 +93,3 @@ function Pads({ pad }) {
     </>
   );
 }
-
-function ShowError({ message }) {
-  return <></>;
-}
